@@ -1,0 +1,9 @@
+zerodha:
+  credentials:
+    user_name: JRU033
+    password: Phanindra173@pandu
+    pin: 170396
+  end-points:
+    base-url : https://kite.zerodha.com
+    orders : oms/orders
+
